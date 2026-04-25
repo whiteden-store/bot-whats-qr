@@ -1,0 +1,5 @@
+1 clonar repositorio
+https://git clone github.com/whiteden-store/bot-whats-qr.git
+
+2 acceder a la carpeta 
+cd
